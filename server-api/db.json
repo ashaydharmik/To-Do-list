@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "2efadb3f-e2a8-4b16-a1f7-fb52c385ec39",
+      "name": "savitha",
+      "email": "savithamane10@gmail.com"
+    },
+    {
+      "id": "548a2d67-f72a-4fc9-b191-27ea904feba6",
+      "name": "vikrant",
+      "email": "vikrant@gmail.com"
+    },
+    {
+      "id": "968cb4b7-0861-49dc-9924-74470910d7a8",
+      "name": "erre",
+      "email": "savithamane10@gmail.com"
+    },
+    {
+      "id": "01009713-1656-4bbb-b9db-6e38d7dd05d8",
+      "name": "Jyothy Institute of Technology",
+      "email": "123@gmail.com"
+    }
+  ]
+}
